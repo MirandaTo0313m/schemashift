@@ -1,0 +1,17 @@
+# Typescript
+
+node_modules/
+
+*.tsbuildinfo
+*.swo
+*.log
+build/
+out/
+.DS_Store
+.cache/
+.next/
+*~
+Desktop.ini
+.env
+npm-debug.log*
+*.js.map
